@@ -1,0 +1,11 @@
+name: Amnezia VPN
+website_url: https://amnezia.org
+description: Deploys a VPN server over SSH and configures matching desktop/mobile clients, with obfuscated protocols (AmneziaWG, XRay, Shadowsocks, OpenVPN over Cloak) to resist DPI blocking.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+  - Docker
+tags:
+  - VPN
+source_code_url: https://github.com/amnezia-vpn/amnezia-client
